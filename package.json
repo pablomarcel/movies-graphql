@@ -13,10 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pablomarcel/movies-graphql.git"
+    "url": "git+https://github.com/pablomarcel/movies-graphql.git"
   },
   "author": "Movie Demos 2022",
   "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/pablomarcel/movies-graphql/issues"
+  },
+  "homepage": "git+https://github.com/pablomarcel/movies-graphql#readme",
   "dependencies": {
     "cors": "2.8.5",
     "express": "4.18.1",
