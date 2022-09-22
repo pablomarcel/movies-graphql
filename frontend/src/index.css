@@ -1,6 +1,5 @@
 body{
     background: #212121;
-    font-family: 'Nunito SemiBold';
 
 }
 
@@ -11,7 +10,7 @@ body{
 }
 
 #main{
-    padding: 0px;
+    padding: 0;
     box-sizing: border-box;
     width: 50%;
     height: 100%;
