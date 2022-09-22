@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "proxy": "http://localhost:4000",
+  "proxy": "https://graphql-movie-db.herokuapp.com",
   "private": true,
   "dependencies": {
     "apollo-boost": "0.1.2",
