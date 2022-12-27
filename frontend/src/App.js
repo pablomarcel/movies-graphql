@@ -11,7 +11,7 @@ import MovieList from './components/MovieList';
 
 // apollo client setup
 const client = new ApolloClient({
-    uri: 'https://graphql-movie-db.herokuapp.com/graphql'
+    uri: 'https://graphql-movies.herokuapp.com/graphql'
 });
 
 class App extends Component {
